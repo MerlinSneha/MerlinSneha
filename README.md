@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MerlinSneha
 - 👀 I’m interested in a business world where you will see different things that might fascinate you
-- 🌱 I’m currently doing my M.Tech in Information Technology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  ::  jprmerlin@gmail.com
 
 <!---
